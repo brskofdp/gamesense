@@ -15,7 +15,7 @@
 local Players = game:GetService("Players")
 
 local Library = loadstring(game:HttpGet(
-	"https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/Source.lua"
+	"https://raw.githubusercontent.com/brskofdp/gamesense/refs/heads/main/Source.lua"
 ))()
 
 --==========================================================================--
